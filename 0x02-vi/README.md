@@ -1,0 +1,1 @@
+This project explaians the basics of the text editior VI. It also contains the basic commands that are used for that editor.
